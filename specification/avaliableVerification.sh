@@ -1,4 +1,5 @@
 #!/bin/sh
+### 或者使用`/usr/bin/env bash`，兼容大多系统
 
 # 脚本调用其他脚本文件，先验证是否可用
 _=$(command -v docker)
