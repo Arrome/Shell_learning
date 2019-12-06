@@ -1,0 +1,1 @@
+ls -ls;(cd /Users/arrome;ls -al);echo "hello"
