@@ -23,6 +23,10 @@ array_name=(
   valuen
 )
 ```
+"${#array_name[@]}"
+"${array_name[@]}"
+"${array_name[*]}"
+
 环境变量
 --------
 
